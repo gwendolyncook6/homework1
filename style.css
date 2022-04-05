@@ -1,0 +1,26 @@
+
+
+.title{
+    border: solid; color: palegreen;
+    height: auto; width: 27%;
+    padding: 14px;
+    background-color: palegreen
+}
+h1{
+    font-size: 50px;
+    font-style: italic;
+    color: darkslateblue;
+}
+#para{
+font-style: italic;
+color: palegreen;
+font-size: 45px;
+border: double; width: 450px; height: auto;
+background-color: rgb(154, 87, 230);
+}
+#find{ 
+   border: solid; color:black ; 
+   width: fit-content; height: auto;
+   font-size: 23px; color: aquamarine;
+   background-color: black;
+}
